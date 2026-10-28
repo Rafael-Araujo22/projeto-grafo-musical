@@ -1,0 +1,13 @@
+song_id,artist_id,role
+S1,A1,principal
+S2,A1,principal
+S3,A2,principal
+S4,A2,principal
+S4,A1,participacao
+S5,A3,principal
+S6,A6,principal
+S7,A4,principal
+S8,A5,principal
+S8,A3,participacao
+S9,A1,principal
+S9,A4,participacao

@@ -1,0 +1,10 @@
+song_id,title,duration_sec,album_id,genre
+S1,Luzes da Cidade,212,AL1,Pop
+S2,Chuva de Verão,187,AL1,MPB
+S3,Maré Alta,231,AL2,Indie Pop
+S4,Sem Sinal,205,AL2,Pop
+S5,Midnight Drive,244,AL3,Electronic
+S6,Paper Hearts,198,AL3,Indie Pop
+S7,Céu Aberto,219,AL4,MPB
+S8,Dança Lunar,176,AL4,Electronic
+S9,Entre Nós,225,AL1,MPB
