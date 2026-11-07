@@ -1,0 +1,49 @@
+track_id,title,duration_sec,explicit,album_id,track_number
+T001,Maré de Janeiro,313,false,AL01,1
+T002,Sol de Papel,178,false,AL01,2
+T003,Caminho Estreito,156,false,AL01,3
+T004,Varanda,220,false,AL01,4
+T005,Azul Elétrico,212,false,AL02,1
+T006,Vento Sul,207,false,AL02,2
+T007,Pele de Cor,185,false,AL02,3
+T008,Domingo Lento,176,false,AL02,4
+T009,Trem das Onze,289,false,AL03,1
+T010,Poeira,172,false,AL03,2
+T011,Guitarras ao Amanhecer,301,false,AL03,3
+T012,Última Estação,258,false,AL03,4
+T013,Farol Aceso,158,false,AL04,1
+T014,Noite Adentro,157,false,AL04,2
+T015,Voltar pra Casa,173,false,AL04,3
+T016,Ruído Branco,205,false,AL04,4
+T017,Batida 128,209,false,AL05,1
+T018,Pulso,279,false,AL05,2
+T019,Neon Sul,304,false,AL05,3
+T020,Loop Infinito,156,false,AL05,4
+T021,Midnight Glow,293,false,AL06,1
+T022,Paper Hearts,200,false,AL06,2
+T023,Run Tonight,316,false,AL06,3
+T024,Golden Static,289,false,AL06,4
+T025,Blue Hours,257,false,AL07,1
+T026,Smoke Signals,206,false,AL07,2
+T027,Quarter Past Two,264,false,AL07,3
+T028,Velvet Rain,300,false,AL07,4
+T029,Asfalto Quente,221,true,AL08,1
+T030,Quebrada Viva,151,true,AL08,2
+T031,Rima de Esquina,190,true,AL08,3
+T032,Fim de Tarde,258,false,AL08,4
+T033,Coração de Viola,237,false,AL09,1
+T034,Poeira da Estrada,221,false,AL09,2
+T035,Saudade de Casa,189,false,AL09,3
+T036,Boiadeiro,205,false,AL09,4
+T037,Waves & Wires,236,false,AL10,1
+T038,Digital Tide,176,false,AL10,2
+T039,Satellite Love,173,false,AL10,3
+T040,After Hours Club,247,false,AL10,4
+T041,Cartas ao Mar,174,false,AL11,1
+T042,Casa Pequena,241,false,AL11,2
+T043,Vinho e Sal,238,false,AL11,3
+T044,Montanha,304,false,AL11,4
+T045,Roda Viva Azul,217,false,AL12,1
+T046,Pandeiro,161,false,AL12,2
+T047,Lua de Samba,267,false,AL12,3
+T048,Feijoada de Domingo,287,false,AL12,4

@@ -1,0 +1,9 @@
+playlist_id,name,is_public,owner_id,created_at
+P01,Foco Total,false,U03,2025-11-25
+P02,Estrada e Violão,true,U04,2024-02-23
+P03,Rock de Garagem,false,U06,2024-05-30
+P04,Noite de Jazz,true,U08,2024-08-17
+P05,Domingo de Samba,true,U07,2026-02-16
+P06,Treino Pesado,true,U13,2025-03-09
+P07,Chill Indie,true,U09,2025-05-26
+P08,MPB Essencial,true,U01,2025-11-11

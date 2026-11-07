@@ -1,0 +1,17 @@
+user_id,name,country,plan,birth_year,signup_date
+U01,Ana Souza,BR,Premium,1995,2022-09-13
+U02,Bruno Lima,BR,Free,1990,2024-02-15
+U03,Carla Mendes,BR,Premium,1998,2022-06-11
+U04,Diego Alves,BR,Family,1987,2025-02-04
+U05,Eduarda Rocha,BR,Premium,2001,2023-08-24
+U06,Felipe Costa,BR,Free,1993,2025-07-11
+U07,Gabriela Nunes,BR,Premium,1996,2025-06-20
+U08,Henrique Dias,BR,Free,1985,2024-01-11
+U09,Isabela Martins,PT,Premium,1994,2025-03-28
+U10,João Pereira,PT,Free,1999,2023-01-29
+U11,Karen Smith,US,Premium,1992,2022-05-23
+U12,Liam Johnson,US,Family,1989,2022-04-04
+U13,Mariana Oliveira,BR,Premium,2003,2025-09-16
+U14,Nicolas Ferreira,BR,Free,1991,2023-04-12
+U15,Olívia Santos,BR,Premium,1997,2023-08-16
+U16,Pedro Gomes,AR,Free,2000,2022-06-13
