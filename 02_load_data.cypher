@@ -1,11 +1,3 @@
-// =====================================================
-// 02 - CARGA DOS DADOS (LOAD CSV)
-// ANTES DE RODAR: troque SEU_USUARIO pela sua conta do GitHub
-// (Ctrl+F / "Localizar e substituir" no editor).
-// O Aura NÃO lê arquivos locais (file:///), por isso usamos
-// a URL "raw" do GitHub (repositório precisa ser PÚBLICO).
-// Rode um bloco por vez, na ordem: nós primeiro, relacionamentos depois.
-// =====================================================
 
 // ---------- NÓS ----------
 
